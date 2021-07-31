@@ -8,4 +8,7 @@ public class Main {
     public void sum(){
         System.out.println("b");
     }
+    public void devide(){
+        System.out.println("b");
+    }
 }
